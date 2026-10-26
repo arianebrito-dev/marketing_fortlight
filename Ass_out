@@ -1,10 +1,182 @@
-<!-- Rodapé -->
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+  <head>
+    <!-- Importando Exo 2 Medium -->
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@500&display=swap" rel="stylesheet" type="text/css">
+  
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:_dlc_DocId msdt:dt="string">5XS2DJNX525U-98103652-522782</mso:_dlc_DocId>
+<mso:_dlc_DocIdItemGuid msdt:dt="string">6f54fd3d-00d6-48f5-8da1-76051df8645b</mso:_dlc_DocIdItemGuid>
+<mso:_dlc_DocIdUrl msdt:dt="string">https://fortlight1994.sharepoint.com/sites/Usuarios/_layouts/15/DocIdRedir.aspx?ID=5XS2DJNX525U-98103652-522782, 5XS2DJNX525U-98103652-522782</mso:_dlc_DocIdUrl>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+  <body style="margin:7; padding:3;">
+    <table cellpadding="0" cellspacing="0" border="0" 
+           style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: 'Exo 2', sans-serif; font-weight:500;">
+      <tbody>
+        <tr>
+          <td style="vertical-align: middle;">
+            <table cellpadding="0" cellspacing="0" border="0" 
+                   style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: 'Exo 2', sans-serif; font-weight:500;">
+              <tbody>
+                <tr>
+                  <td>
+                    <h2 style="margin: 0px; font-size: 18px; font-family: 'Exo 2', sans-serif; font-weight: 600; color: #004696;">
+                      <span>Ariane</span> <span>Brito</span>
+                    </h2>
+                    <div style="margin: 0px; font-weight: 500; color: #000; font-size: 14px; line-height: 22px; font-family: 'Exo 2', sans-serif;">
+                      <span>Marketing</span>
+                    </div>
+                  </td>
+
+                  <td width="15" aria-label="Vertical Spacer">
+                    <div style="width: 15px;"></div>
+                  </td>
+
+                  <td width="1" aria-label="Divider" 
+                      style="width: 1px; height: auto; border-bottom: none; border-left: 1px solid rgb(0,70,150);">
+                  </td>
+
+                  <td width="15" aria-label="Vertical Spacer">
+                    <div style="width: 15px;"></div>
+                  </td>
+
+                  <td>
+                    <table cellpadding="0" cellspacing="0" border="0" 
+                           style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: 'Exo 2', sans-serif; font-weight:500;">
+                      <tbody>
+                        <!-- Telefones -->
+                        <tr style="vertical-align: middle; height: 25px;">
+                          <td width="30" style="vertical-align: middle;">
+                            <span style="display: inline-block; background-color: rgb(0,70,150);">
+                              <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/phone-icon-dark-2x.png" 
+                                   alt="mobilePhone" width="13" style="display: block;">
+                            </span>
+                          </td>
+                          <td style="padding: 0px; color: #000; font-family: 'Exo 2', sans-serif;">
+                           <a href="https://wa.me/551120876008" style="text-decoration: none; color: #000; font-size: 14px; font-family: 'Exo 2', sans-serif;">
+                              11 2087-6008 (17)
+                            </a>
+                          </td>
+                        </tr>
+
+                        <!-- Email -->
+                        <tr style="vertical-align: middle; height: 25px;">
+                          <td width="30" style="vertical-align: middle;">
+                            <span style="display: inline-block; background-color: rgb(0,70,150);">
+                              <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/email-icon-dark-2x.png" 
+                                   alt="emailAddress" width="13" style="display: block;">
+                            </span>
+                          </td>
+                          <td style="padding: 0px; color: #000; font-family: 'Exo 2', sans-serif;">
+                            <a href="mailto:marketing@fortlight.com.br" style="text-decoration: none; color: #000; font-size: 14px; font-family: 'Exo 2', sans-serif;">
+                              marketing@fortlight.com.br
+                            </a>
+                          </td>
+                        </tr>
+
+                        <!-- Website -->
+                        <tr style="vertical-align: middle; height: 25px;">
+                          <td width="30" style="vertical-align: middle;">
+                            <span style="display: inline-block; background-color: rgb(0,70,150);">
+                              <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/link-icon-dark-2x.png" 
+                                   alt="website" width="13" style="display: block;">
+                            </span>
+                          </td>
+                          <td style="padding: 0px; color: #000; font-family: 'Exo 2', sans-serif;">
+                            <a href="https://www.fortlight.com.br/" style="text-decoration: none; color: #000; font-size: 14px; font-family: 'Exo 2', sans-serif;">
+                              https://www.fortlight.com.br/
+                            </a>
+                          </td>
+                        </tr>
+
+                        <!-- Endereço -->
+                        <tr style="vertical-align: middle; height: 25px;">
+                          <td width="30" style="vertical-align: middle;">
+                            <span style="display: inline-block; background-color: rgb(0,70,150);">
+                              <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/address-icon-dark-2x.png" 
+                                   alt="address" width="13" style="display: block;">
+                            </span>
+                          </td>
+                          <td style="padding: 0px; color: #000; font-family: 'Exo 2', sans-serif;">
+                            <span style="font-size: 14px; color: #000; font-family: 'Exo 2', sans-serif;">
+                              Rua Luiz Rodrigues de Freitas, 240 - Porto da Igreja - Guarulhos/SP
+                            </span>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Linha divisória -->
+        <tr><td height="15" aria-label="Horizontal Spacer"></td></tr>
+        <tr>
+          <td width="auto" aria-label="Divider" 
+              style="width: 100%; height: 1px; border-bottom: 1px solid rgb(0,70,150); border-left: none; display: block;">
+          </td>
+        </tr>
+        <tr><td height="10" aria-label="Horizontal Spacer"></td></tr>
+
+        <!-- Logo e redes sociais -->
+        <tr>
+          <td>
+            <table cellpadding="0" cellspacing="0" border="0" 
+                   style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: 'Exo 2', sans-serif; width: 100%;">
+              <tbody>
+                <tr>
+                  <td style="vertical-align: top;">
+                    <img src="https://www.fortlight.com.br/images/logo-fortlight-default-02.png" 
+                         role="presentation" width="130" style="max-width: 130px; display: block;">
+                  </td>
+                 <td style="text-align: right; vertical-align: top;">
+                    <div>
+                      <a href="https://www.linkedin.com/company/fortlight-iluminacao/" 
+                         style="display: inline-block; background-color: rgb(242,163,27); border-radius: 50%;">
+                        <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/linkedin-icon-dark-2x.png" 
+                             alt="linkedin" width="24" style="display: block; border-radius: inherit;">
+                      </a>
+                      <span style="display: inline-block; width: 5px;"></span>
+
+                      <a href="https://www.facebook.com/share/15zWLtSWipT/?mibextid=wwXIfr" 
+                         style="display: inline-block; background-color: rgb(242,163,27); border-radius: 50%;">
+                        <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/facebook-icon-dark-2x.png" 
+                             alt="facebook" width="24" style="display: block; border-radius: inherit;">
+                      </a>
+                      <span style="display: inline-block; width: 5px;"></span>
+
+                      <a href="https://www.instagram.com/fortlight.iluminacao.ind?igsh=Y2dsN2lmc3E0Y2Qw" 
+                         style="display: inline-block; background-color: rgb(242,163,27); border-radius: 50%;">
+                        <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/instagram-icon-dark-2x.png" 
+                             alt="instagram" width="24" style="display: block; border-radius: inherit;">
+                      </a>
+                      <span style="display: inline-block; width: 5px;"></span>
+
+                      <a href="https://wa.me/5511964830845" 
+                         style="display: inline-block; background-color: rgb(242,163,27); border-radius: 50%;">
+                        <img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/whatsapp-icon-dark-2x.png" 
+                             alt="whatsapp" width="24" style="display: block; border-radius: inherit;">
+                      </a>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Rodape -->
 <tr>
   <td style="padding-top:15px;">
     <a href="https://fortlight.com.br/#home"
        target="_blank"
        title="Conheça as soluções Fortlight">
-      <img src="https://fortlight.com.br/ass/2026/ass-2026-full-copa_files/ass-2026-full-copa.png"
+      <img src="https://fortlight.com.br/ass/2026/img-ass-2026-out-full.jpg"
            alt="Conheça as soluções Fortlight"
            width="620"
            height="180"
@@ -13,3 +185,7 @@
     </a>
   </td>
 </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
